@@ -6,7 +6,7 @@ Built with Hugging Face, PEFT, and LoRA for efficient fine-tuning.
 
 ## 🚀 Features
 - 🔹 **Input:** Paste any text or passage  
-- 🔹 **Output:** Flashcards in the format:
+- 🔹 **Output:** Flashcards in the format: Q: <question> A: <answer>
 - 🔹 **Lightweight training:** LoRA adapters make fine-tuning possible on smaller GPUs  
 - 🔹 **Interactive UI:** Gradio app for quick testing and use  
 
